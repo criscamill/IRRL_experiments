@@ -1,0 +1,2 @@
+python "C:\Users\Jogos\Desktop\Millan\Cart-pole\experiment_RRL.py" "--cut=400" "--experiment=10" "--next=0" "--epoch=3000"
+python "C:\Users\Jogos\Desktop\Millan\Cart-pole\experiment_IRL.py" "--cut=400" "--experiment=10" "--next=0" "--epoch=3000"
